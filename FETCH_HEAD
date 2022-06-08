@@ -1,0 +1,11 @@
+file1:      ASCII text, with CRLF line terminators
+file2:      empty
+file3:      empty
+file8:      empty
+hello.java: ASCII text, with CRLF line terminators
+info1:      empty
+info2:      empty
+info3:      empty
+branch:     cannot open `branch' (No such file or directory)
+HEAD:       cannot open `HEAD' (No such file or directory)
+/dev/stdin:          very short file (no magic)
