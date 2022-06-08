@@ -1,4 +1,6 @@
 class hello{
 
-	public static void ()
+	public static void 
+			system.out.print
+
 }
