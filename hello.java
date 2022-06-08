@@ -1,7 +1,7 @@
-class hello{
+class hello{ 3
 
-	public static void 
+	public static void from 
 			system.out.print
-
+to
        hello modified
 }
